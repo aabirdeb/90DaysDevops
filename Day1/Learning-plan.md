@@ -2,7 +2,7 @@
 
 ### Current Level
 
-I am a **working professional in DevOps/SRE with around 5 years of experience**. I have hands-on exposure to AWS, Kubernetes/EKS, Terraform, CI/CD, Docker, monitoring, and production support. My focus for the next 90 days is to strengthen my practical troubleshooting and system-design skills and prepare for **DevOps/SRE roles in product-based companies**.
+I am a **working professional in DevOps/SRE with around 4 years of experience**. I have hands-on exposure to AWS, Kubernetes/EKS, Terraform, CI/CD, Docker, monitoring, and production support. My focus for the next 90 days is to strengthen my practical troubleshooting and system-design skills and prepare for **DevOps/SRE roles in product-based companies**.
 
 ### 3 Goals for the Next 90 Days
 
