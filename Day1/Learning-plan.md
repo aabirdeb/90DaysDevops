@@ -4,7 +4,7 @@
 
 I am a **working professional in DevOps/SRE with around 4 years of experience**. I have hands-on exposure to AWS, Kubernetes/EKS, Terraform, CI/CD, Docker, monitoring, and production support. My focus for the next 90 days is to strengthen my practical troubleshooting and system-design skills and prepare for **DevOps/SRE roles in product-based companies**.
 
-### 3 Goals for the Next 90 Days
+### 3 Goals for the Next 90 Days_
 
 **1. Build Multiple Production-Grade DevOps Projects**
 Build 2–3 end-to-end projects covering application containerization, AWS infrastructure, Kubernetes deployment, CI/CD, monitoring, security, and Infrastructure as Code. Publish the projects on GitHub with proper documentation and architecture diagrams.
